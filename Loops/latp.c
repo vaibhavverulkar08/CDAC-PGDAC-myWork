@@ -1,0 +1,1 @@
+// WAP to print Left angle trianle Astric pattern
